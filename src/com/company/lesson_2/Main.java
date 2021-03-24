@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("____________________11111_________________________________");
-        //task #1
+        //task #1 ddd
         int[] nums = {1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0};
         nums = func1(nums);
         for (int i = 0; i < nums.length; i++) System.out.println(nums[i]);
